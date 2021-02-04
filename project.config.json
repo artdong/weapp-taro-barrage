@@ -1,0 +1,60 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "weapp-taro-barrage",
+	"description": "接机弹幕",
+	"appid": "wx684e5da21e3a9366",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"skeleton-config": {
+		"global": {
+			"loading": "",
+			"text": {
+				"color": "#EEEEEE"
+			},
+			"image": {
+				"shape": "rect",
+				"color": "#EFEFEF",
+				"shapeOpposite": []
+			},
+			"button": {
+				"color": "#EFEFEF",
+				"excludes": []
+			},
+			"pseudo": {
+				"color": "#EFEFEF",
+				"shape": "circle",
+				"shapeOpposite": []
+			},
+			"excludes": [],
+			"remove": [],
+			"empty": [],
+			"hide": [],
+			"grayBlock": [],
+			"showNative": false,
+			"backgroundColor": "transparent",
+			"mode": "fullscreen",
+			"templateName": "skeleton",
+			"cssUnit": "rpx",
+			"decimal": 4
+		}
+	},
+	"condition": {}
+}
