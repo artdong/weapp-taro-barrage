@@ -113,7 +113,7 @@ export default class Barrage extends Component {
       duration: 0
     })
     this.setState({
-      scorll: animation.export()
+      scorllAnimation: animation.export()
     })
   }
 
